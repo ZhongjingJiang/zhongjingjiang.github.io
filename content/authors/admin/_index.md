@@ -11,7 +11,7 @@ last_name: Jiang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,9 +31,9 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'zjiang35@illinois.edu'
+    url: 'mailto:zjiang35@illinois.edu'
     label: E-mail Me
-  - icon: brands/R
+  - icon: brands/Researchgate
     url: https://www.researchgate.net/profile/Zhongjing-Jiang
   - icon: brands/github
     url: https://github.com/ZhongjingJiang
@@ -45,71 +45,67 @@ profiles:
     url: https://orcid.org/0000-0003-0909-9150
 
 interests:
-  - Earth System Modeling, Ecosystem modeling
-  - Atmospheric Modeling, Climate-Chemistry Interaction
+  - Earth System Modeling
+  - Model data integration
+  - Ecosystem modeling
+  - Bioenergy, miscanthus, SAF
   - Uncertainty Quantification, Bayesian Inference
-  - Climate Change, Sustainability, Bioenergy
+  - Air pollution
+  - Climate Change
 
 education:
   - area: Ph.D. in Atmospheric Physics and Atmospheric Environment
     institution: Peking University
     date_start: 2017-09-01
-    date_end: 2022-07-01
+    date_end: 2022-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: B.S. in Mathematics and Applied Mathematics
+      Thesis title: Impact of natural climate variability at different timescales on tropospheric ozone in China.
+      Supervised by Prof [Jing Li](https://scholar.google.com/citations?user=2Xxd0psAAAAJ).
+  
+ - area: B.S. in Mathematics and Applied Mathematics
     institution: Beijing Normal University
     date_start: 2013-09-01
-    date_end: 2017-07-01
+    date_end: 2017-06-30
     summary: |
-      GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: research scientist
+    company_name: 
+    company_url: 'https://www.bnl.gov/science/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-08-19
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      Research focus:
+      - Agriculture ecosystem modeling
+      - miscanthus, Bioenergy, Sustainable Aviation Fuel (SAF)
+  - position: Postdoctoral research associate
+    company_name: Brookhaven National Laboratory
+    company_url: 'https://www.bnl.gov/science/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2022-09-19
+    date_end: 2024-08-16
+    summary: |2-
+      Research focus:
+      - Earth System Modeling, (E3SM, ELM)
+      - Model-data fusion
+      - Uncertainty Quantification, Bayesian Inference
+      - Observing System Simulation Experiments (OSSE)
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: E3SM, GEOS-Chem, WRF-Chem
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: python, julia
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: matlab, fortran, NCL
         description: ''
         percent: 40
         icon: circle-stack
@@ -117,58 +113,46 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Dancing
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: dancing
+      - name: Swiming
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: Swim
+      - name: Tennis
         description: ''
         percent: 80
-        icon: camera
+        icon: Tennis
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    description: 'native'
+    percent: 100
+  - name: English
+    description: 'fluent'
+    percent: 90
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Second Place in 2023 BNL Research SLAM Competition
+    url: https://www.bnl.gov/newsroom/news.php?a=221522
+    date: '2023-09-28'
+    awarder: BNL
+    icon: BNL
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      It was a great experience to participate in the first BNL Research SLAM competition, and it was an honor to win second place (my presentation begins at 28:40 in the [video](https://www.youtube.com/watch?v=zWkuOtVzpVQ&t=5s). The SLAM competition is like an "elevator talk"; participants gave three-minute talks on their research, prepared for a general audience. This event reinforced my commitment to improving the communication of scientific concepts to the public, a mission I will passionately pursue in the future.
+  - title: Outstanding Student Presentation Awards (OSPA) in the Fall 2020 AGU meeting
+    url: https://www.agu.org/honors/ospa/past-recipients
+    date: '2020-12-15'
+    awarder: AGU
+    icon: AGU
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
-Hello! My name is Zhongjing Jiang (姜中景). I am a Research Scientist at Institue for Sustainability, Energy, and Environment (iSEE) at University of Illinois Urbana-Champaign (UIUC), and also Center for Advanced Bioenergy and Bioproducts Innovation (CABBI), which is funded by the Department of Energy. My research interests include chemistry-climate interaction, atmospheric modeling, air quality, and climate change. I am familar with atmospheric chemistry transport models like GEOS-Chem and WRF-Chem as well as earth system model CESM. Currently, my research mainly focus on tropospheric ozone and aerosol. Welcome discussion about atmospheric and climate issues!
+Hello! My name is Zhongjing Jiang (姜中景). I am a Research Scientist at the Institute for Sustainability, Energy, and Environment (iSEE) at the University of Illinois Urbana-Champaign (UIUC) and the Center for Advanced Bioenergy and Bioproducts Innovation (CABBI), funded by the U.S. Department of Energy. My research interests span Earth system modeling, model-data integration, chemistry-climate interactions, bioenergy, air quality, and climate change. With a diverse academic background in mathematics, atmospheric science, and environmental studies, I identify as an interdisciplinary Earth system scientist. My work bridges the atmospheric, terrestrial, and oceanic domains. Currently, my research focuses on agricultural ecosystem modeling and bioenergy systems. I’m always open to discussions about atmospheric science, climate issues, and sustainability.

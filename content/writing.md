@@ -1,6 +1,6 @@
 ---
-title: 'Projects'
-date: 2024-05-19
+title: 'Writing'
+date: 2024-12-31
 type: landing
 
 design:
@@ -11,11 +11,11 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Selected articles
+      text: I enjoy writing things. Here are a selection of public articles that I have written.
       filters:
         folders:
-          - project
+          - writing
     design:
       view: article-grid
       fill_image: false
