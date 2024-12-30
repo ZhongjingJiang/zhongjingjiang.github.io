@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 姜中景
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zhongjing Jiang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zhongjing
+last_name: Jiang
 
 # Status emoji
 status:
@@ -20,66 +20,55 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: UIUC, CABBI
+    url: https://cabbi.bio/?s=Zhongjing+&submit=Search&id=932
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'zjiang35@illinois.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: brands/R
+    url: https://www.researchgate.net/profile/Zhongjing-Jiang
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ZhongjingJiang
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/zhongjing-jiang-628588146/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=73N_824AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-0909-9150
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Earth System Modeling, Ecosystem modeling
+  - Atmospheric Modeling, Climate-Chemistry Interaction
+  - Uncertainty Quantification, Bayesian Inference
+  - Climate Change, Sustainability, Bioenergy
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. in Atmospheric Physics and Atmospheric Environment
+    institution: Peking University
+    date_start: 2017-09-01
+    date_end: 2022-07-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.S. in Mathematics and Applied Mathematics
+    institution: Beijing Normal University
+    date_start: 2013-09-01
+    date_end: 2017-07-01
     summary: |
       GPA: 3.8/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -182,5 +171,4 @@ awards:
 ---
 
 ## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! My name is Zhongjing Jiang (姜中景). I am a Research Scientist at Institue for Sustainability, Energy, and Environment (iSEE) at University of Illinois Urbana-Champaign (UIUC), and also Center for Advanced Bioenergy and Bioproducts Innovation (CABBI), which is funded by the Department of Energy. My research interests include chemistry-climate interaction, atmospheric modeling, air quality, and climate change. I am familar with atmospheric chemistry transport models like GEOS-Chem and WRF-Chem as well as earth system model CESM. Currently, my research mainly focus on tropospheric ozone and aerosol. Welcome discussion about atmospheric and climate issues!
