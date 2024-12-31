@@ -35,15 +35,27 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research focuses on addressing the complex challenges posed by climate change, with an emphasis on Earth System Modeling, chemistry-climate interactions, and Uncertainty Quantification (UQ). Drawing on my academic background in applied mathematics and atmospheric science, I am dedicated to advancing our understanding of the intricate relationships within the Earth’s climate system as well as finding sustainable solutions to the world.
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
-        Prior to joining UIUC, I did my postdoc at Brookhaven National Laboratory, where my work spanned the Environmental and Climate Sciences Department and the Computer Science Initiative. This experience provided me with a unique perspective at the intersection of climate science and computational methodologies.
-
-        I envision my research to contribute to both scientific understanding and practical solutions for pressing climate and environmental challenges. My focus lies particularly in terrestrial ecosystems, air quality, climate variability, and improving climate model predictability. By leveraging my interdisciplinary expertise, I aim to unravel the complexities of Earth system and climate modeling, offering insights that enhance scientific knowledge and inform nature-based solutions for mitigating global climate challenges, particularly in the agricultural domain.
-
+        Please reach out to collaborate 😃
+    design:
+      columns: '1'
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
   - block: collection
     content:
-      title: Publications
+      title: Recent Publications
       text: ""
       filters:
         folders:
@@ -54,7 +66,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Presentations
+      title: Recent & Upcoming Talks
       filters:
         folders:
           - event

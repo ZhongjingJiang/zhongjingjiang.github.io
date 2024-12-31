@@ -20,8 +20,8 @@ main:
     url: experience/
     weight: 20
   - name: Writing
-    url: Writing/
+    url: writing/
     weight: 30
-  - name: Gallery
-    url: Gallery/
+  - name: Teaching
+    url: teaching/
     weight: 40

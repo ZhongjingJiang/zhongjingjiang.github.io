@@ -24,8 +24,8 @@ role: Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: UIUC, CABBI
-    url: https://cabbi.bio/?s=Zhongjing+&submit=Search&id=932
+  - name: UIUC-iSEE, CABBI
+    url: https://sustainability.illinois.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:zjiang35@illinois.edu'
     label: E-mail Me
-  - icon: brands/Researchgate
+  - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Zhongjing-Jiang
   - icon: brands/github
     url: https://github.com/ZhongjingJiang
@@ -46,10 +46,10 @@ profiles:
 
 interests:
   - Earth System Modeling
-  - Model data integration
-  - Ecosystem modeling
-  - Bioenergy, miscanthus, SAF
+  - Agricultural Ecosystem Modeling
+  - Model Data Fusion
   - Uncertainty Quantification, Bayesian Inference
+  - Miscanthus, Bioenergy, SAF
   - Air pollution
   - Climate Change
 
@@ -58,23 +58,26 @@ education:
     institution: Peking University
     date_start: 2017-09-01
     date_end: 2022-06-30
+    summary: |
+      Thesis title: Impact of natural climate variability at different timescales on tropospheric ozone in China.
+      Supervised by Prof [Jing Li](https://scholar.google.com/citations?user=2Xxd0psAAAAJ)    
   - area: B.S. in Mathematics and Applied Mathematics
     institution: Beijing Normal University
     date_start: 2013-09-01
     date_end: 2017-06-30
 
 work:
-  - position: research scientist
-    company_name: UIUC
-    company_url: 'https://www.bnl.gov/science/'
+  - position: Research Scientist
+    company_name: UIUC-iSEE, CABBI
+    company_url: 'https://asc.illinois.edu/'
     company_logo: ''
     date_start: 2024-08-19
     date_end: ''
     summary: |2-
       Research focus:
-      - Agriculture ecosystem modeling
-      - miscanthus, Bioenergy, Sustainable Aviation Fuel (SAF)
-  - position: Postdoctoral research associate
+      - Agricultural Ecosystem Modeling
+      - Miscanthus, Bioenergy, Sustainable Aviation Fuel (SAF)
+  - position: Postdoctoral Research Associate
     company_name: Brookhaven National Laboratory
     company_url: 'https://www.bnl.gov/science/'
     company_logo: ''
@@ -82,8 +85,8 @@ work:
     date_end: 2024-08-16
     summary: |2-
       Research focus:
-      - Earth System Modeling, (E3SM, ELM)
-      - Model-data fusion
+      - Earth System Modeling (E3SM, ELM)
+      - Model Data Fusion
       - Uncertainty Quantification, Bayesian Inference
       - Observing System Simulation Experiments (OSSE)
 
@@ -108,18 +111,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Dancing
+      - name: Latin Dance
         description: ''
         percent: 60
-        icon: dancing
+        icon: dance-ballroom
       - name: Swiming
         description: ''
         percent: 100
-        icon: Swim
+        icon: persion-swimming
       - name: Tennis
         description: ''
         percent: 80
-        icon: Tennis
+        icon: tennis-ball-outline
 
 languages:
   - name: Chinese
@@ -138,16 +141,23 @@ awards:
     url: https://www.bnl.gov/newsroom/news.php?a=221522
     date: '2023-09-28'
     awarder: BNL
-    icon: BNL
+    icon: medal-outline
     summary: |
-      It was a great experience to participate in the first BNL Research SLAM competition, and it was an honor to win second place (my presentation begins at 28:40 in the [video](https://www.youtube.com/watch?v=zWkuOtVzpVQ&t=5s). The SLAM competition is like an 'elevator talk'; participants gave three-minute talks on their research, prepared for a general audience. This event reinforced my commitment to improving the communication of scientific concepts to the public, a mission I will passionately pursue in the future.
+      It was a great experience to participate in the first BNL Research SLAM competition, and it was an honor to win second place (my presentation begins at 28:40 in the [video](https://www.youtube.com/watch?v=zWkuOtVzpVQ&t=5s)). The SLAM competition is like an 'elevator talk'; participants gave three-minute talks on their research, prepared for a general audience. This event reinforced my commitment to improving the communication of scientific concepts to the public, a mission I will passionately pursue in the future.
+  - title: Wang Shaowu Outstanding Doctoral Graduate Award in 2022
+    url: https://www.atmos.pku.edu.cn/xybj/wswyxbsbysj/ljhjz1/141893.htm
+    date: '20202-7-14'
+    awarder: Peking University
+    icon: outliner/medal-2
+    summary: |
   - title: Outstanding Student Presentation Awards (OSPA) in the Fall 2020 AGU meeting
     url: https://www.agu.org/honors/ospa/past-recipients
     date: '2020-12-15'
     awarder: AGU
-    icon: AGU
+    icon: outliner/medal-2
     summary: |
 ---
 
 ## About Me
-Hello! My name is Zhongjing Jiang (姜中景). I am a Research Scientist at the Institute for Sustainability, Energy, and Environment (iSEE) at the University of Illinois Urbana-Champaign (UIUC) and the Center for Advanced Bioenergy and Bioproducts Innovation (CABBI), funded by the U.S. Department of Energy. My research interests span Earth system modeling, model-data integration, chemistry-climate interactions, bioenergy, air quality, and climate change. With a diverse academic background in mathematics, atmospheric science, and environmental studies, I identify as an interdisciplinary Earth system scientist. My work bridges the atmospheric, terrestrial, and oceanic domains. Currently, my research focuses on agricultural ecosystem modeling and bioenergy systems. I'm always open to discussions about atmospheric science, climate issues, and sustainability.
+Hello! My name is Zhongjing Jiang (姜中景). I am a Research Scientist at the Institute for Sustainability, Energy, and Environment (iSEE) at the University of Illinois Urbana-Champaign (UIUC) and the Center for Advanced Bioenergy and Bioproducts Innovation (CABBI), funded by the U.S. Department of Energy. 
+With a diverse academic background in mathematics, atmospheric science, and environmental studies, and as my work bridges the atmospheric, terrestrial, and oceanic components of the Earth system, I identify myself as an interdisciplinary Earth system scientist. Currently, my research focuses on agricultural ecosystem modeling and bioenergy systems. I’m always excited to engage in discussions about atmospheric science, climate issues, energy, and sustainability.
