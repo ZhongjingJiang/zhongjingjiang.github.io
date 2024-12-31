@@ -7,6 +7,11 @@
 imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
+  - path: github.com/hugomods/icons/vendors/bootstrap
+  - path: github.com/hugomods/icons/vendors/font-awesome
+  - path: github.com/hugomods/icons/vendors/mdi
+  - path: github.com/hugomods/icons/vendors/lucide
+  - path: github.com/hugomods/icons/vendors/simple-icons
 
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
 mounts:

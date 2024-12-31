@@ -146,7 +146,7 @@ awards:
       It was a great experience to participate in the first BNL Research SLAM competition, and it was an honor to win second place (my presentation begins at 28:40 in the [video](https://www.youtube.com/watch?v=zWkuOtVzpVQ&t=5s)). The SLAM competition is like an 'elevator talk'; participants gave three-minute talks on their research, prepared for a general audience. This event reinforced my commitment to improving the communication of scientific concepts to the public, a mission I will passionately pursue in the future.
   - title: Wang Shaowu Outstanding Doctoral Graduate Award in 2022
     url: https://www.atmos.pku.edu.cn/xybj/wswyxbsbysj/ljhjz1/141893.htm
-    date: '20202-7-14'
+    date: '2020-07-14'
     awarder: Peking University
     icon: outliner/medal-2
     summary: |
