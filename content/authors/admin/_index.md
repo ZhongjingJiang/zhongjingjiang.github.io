@@ -90,7 +90,6 @@ work:
       - Uncertainty Quantification, Bayesian Inference
       - Observing System Simulation Experiments (OSSE)
 
-
 #Teaching
 teaching:
   - position: Teaching Assistant, Introduction of Atmospheric Science

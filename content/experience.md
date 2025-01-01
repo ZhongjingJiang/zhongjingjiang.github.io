@@ -25,7 +25,7 @@ sections:
   - block: resume-activity
     content:
       title: Activities & Services
-      username: admin
+      username: admin  
   - block: resume-skills
     content:
       title: Skills & Hobbies
