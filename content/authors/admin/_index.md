@@ -78,7 +78,7 @@ work:
       - Agricultural Ecosystem Modeling
       - Miscanthus, Bioenergy, Sustainable Aviation Fuel (SAF)
   - position: Postdoctoral Research Associate
-    company_name: [Brookhaven National Laboratory](https://www.bnl.gov/science/)
+    company_name: Brookhaven National Laboratory
     company_url: 'https://www.bnl.gov/science/'
     company_logo: ''
     date_start: 2022-09-19
