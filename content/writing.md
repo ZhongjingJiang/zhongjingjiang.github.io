@@ -12,12 +12,11 @@ sections:
   - block: collection
     content:
       title: Selected articles
-      text: I enjoy writing things. Here are a selection of public articles that I have written.
+      text: Scientists should focus not only on research but also on sharing knowledge to enhance public understanding and support for science. Beyond research, I enjoy writing, and here are some popular science articles I have authored.
       filters:
         folders:
           - writing
     design:
       view: article-grid
-      fill_image: false
-      columns: 3
+      columns: 2
 ---
