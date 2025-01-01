@@ -18,11 +18,11 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: collection
+  - block: resume_awards
     content:
       title: Teaching experience
       username: admin
-  - block: collection
+  - block: resume_awards
     content:
       title: Activities & Services
       username: admin  
