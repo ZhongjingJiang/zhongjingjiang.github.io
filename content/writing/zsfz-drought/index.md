@@ -4,7 +4,7 @@ date: 2022-10-17
 external_link: https://mp.weixin.qq.com/s/gEoSKn5HHrZxP7Ofd6JlhA
 tags:
   - 知识分子
-  - Wowchemy
+  - 姜中景
   - Markdown
 ---
 

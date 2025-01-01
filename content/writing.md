@@ -6,7 +6,11 @@ type: landing
 design:
   # Section spacing
   spacing: '5rem'
-
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: true
 # Page sections
 sections:
   - block: collection
