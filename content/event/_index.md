@@ -3,11 +3,19 @@ title: Recent & Upcoming Talks
 cms_exclude: true
 #url: talk
 
-# View
-view: card
+design:
+  # Section spacing
+  spacing: '5rem'
 
-# Optional cover image (relative to `assets/media/` folder).
-image:
-  caption: ''
-  filename: ''
+# Page sections
+sections:
+  - block: collection
+    content:
+      title: Selected Presentations
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 2
 ---

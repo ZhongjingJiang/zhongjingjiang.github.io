@@ -1,7 +1,7 @@
 ---
 title: A novel computational framework for optimal experimental design to improve climate prediction
 
-event: Micro2Macro: Origins of Climate Change Uncertainty Workshop
+event: Micro2Macro- Origins of Climate Change Uncertainty Workshop
 event_url: https://usclivar.org/meetings/micro2macro
 
 location: University of Wyoming | Laramie, WY, and Virtual
@@ -21,7 +21,7 @@ publishDate: '2024-10-30'
 authors:
   - admin
 
-tags: []
+tags: 
   - Academic
   - Presentation
 
