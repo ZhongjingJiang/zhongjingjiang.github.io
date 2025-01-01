@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected articles
-      text: Scientists should focus not only on research but also on sharing knowledge to enhance public understanding and support for science. Beyond research, I enjoy writing, and here are some popular science articles I have authored.
+      title: Popular science articles
+      text: I believe that in addition to focusing on scientific research, scientists should also actively take on the responsibility of popularizing science and promote public understanding and support of science by spreading scientific knowledge. Beyond my research, I enjoy writing. The following are some popular science articles I have written.
       filters:
         folders:
           - writing
