@@ -68,7 +68,7 @@ education:
 
 work:
   - position: Research Scientist
-    company_name: [UIUC-iSEE](https://asc.illinois.edu/), [CABBI](https://cabbi.bio/)
+    company_name: UIUC-iSEE, CABBI
     company_url: 'https://asc.illinois.edu/'
     company_logo: ''
     date_start: 2024-08-19
