@@ -68,7 +68,7 @@ education:
 
 work:
   - position: Research Scientist
-    company_name: UIUC-iSEE, CABBI
+    company_name: [UIUC-iSEE](https://asc.illinois.edu/), [CABBI](https://cabbi.bio/)
     company_url: 'https://asc.illinois.edu/'
     company_logo: ''
     date_start: 2024-08-19
@@ -78,7 +78,7 @@ work:
       - Agricultural Ecosystem Modeling
       - Miscanthus, Bioenergy, Sustainable Aviation Fuel (SAF)
   - position: Postdoctoral Research Associate
-    company_name: Brookhaven National Laboratory
+    company_name: [Brookhaven National Laboratory](https://www.bnl.gov/science/)
     company_url: 'https://www.bnl.gov/science/'
     company_logo: ''
     date_start: 2022-09-19
@@ -89,6 +89,36 @@ work:
       - Model Data Fusion
       - Uncertainty Quantification, Bayesian Inference
       - Observing System Simulation Experiments (OSSE)
+
+
+#Teaching
+teaching:
+  - position: Teaching Assistant, Introduction of Atmospheric Science
+    company_name: Department of Atmospheric and Oceanic Sciences, Peking University
+    date_start: 2018-09-01
+    date_end: 2019-01-10
+    summary: |
+  - position: Teaching Assistant, Numerical Weather Prediction
+    company_name: Department of Atmospheric and Oceanic Sciences, Peking University
+    date_start: 2021-09-01
+    date_end: 2022-01-10
+    summary: |
+  - position: Software training lecturer MATLAB (training for undergraduate & graduate students)
+    company_name: School of Physics, Peking University
+    summary: |
+
+#Activities
+activity:
+  - position: Vice President of the [Brookhaven National Laboratory Association of Students & Postdocs](https://www.bnl.gov/asap/)
+    company_name: Brookhaven National Laboratory
+    date_start: 2023-01-01
+    date_end: 2024-08-16
+    summary: |
+  - position: Chair of the ["Azure Space" Graduate Student Forum]https://www.atmos.pku.edu.cn/kxzb/ylkj/ylkjcy/2018n/index.htm
+    company_name: Department of Atmospheric and Oceanic Sciences, Peking University
+    date_start: 2018-09-01
+    date_end: 2020-09-01
+    summary: |
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
