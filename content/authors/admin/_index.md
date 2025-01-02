@@ -143,15 +143,15 @@ skills:
       - name: Latin Dance
         description: ''
         percent: 60
-        icon: dance-ballroom
+        icon: person-simple-walk
       - name: Swiming
         description: ''
         percent: 100
-        icon: persion-swimming
+        icon: person-swimming
       - name: Tennis
         description: ''
         percent: 80
-        icon: tennis-ball-outline
+        icon: tennis-ball
 
 languages:
   - name: Chinese
