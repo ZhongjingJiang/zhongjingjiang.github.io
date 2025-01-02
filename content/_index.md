@@ -47,9 +47,9 @@ sections:
     content:
       title: Publications
       text: |
-        [Link to my Google scholar page](https://scholar.google.com/citations?user=73N_824AAAAJ&hl=en)       
+        [Link to my Google Scholar page](https://scholar.google.com/citations?user=73N_824AAAAJ&hl=en)       
         
-        **In preparation: **
+        **In preparation:**
 
         - **Jiang, Z.**, Isenberg, N., Subba, T., Urban, N., Serbin, S., Kuang, C., Woo, H.: A Novel Computational Framework for Optimal Experimental Design to Improve Climate Prediction.
 

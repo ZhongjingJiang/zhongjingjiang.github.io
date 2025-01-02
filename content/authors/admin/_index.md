@@ -147,11 +147,11 @@ skills:
       - name: Swiming
         description: ''
         percent: 100
-        icon: person-swimming
+        icon: mdi/swim
       - name: Tennis
         description: ''
         percent: 80
-        icon: tennis-ball
+        icon: mdi/tennis-ball-outline
 
 languages:
   - name: Chinese
@@ -170,20 +170,20 @@ awards:
     url: https://www.bnl.gov/newsroom/news.php?a=221522
     date: '2023-09-28'
     awarder: BNL
-    icon: medal-outline
+    icon: medal
     summary: |
       It was a great experience to participate in the first BNL Research SLAM competition, and it was an honor to win second place (my presentation begins at 28:40 in the [video](https://www.youtube.com/watch?v=zWkuOtVzpVQ&t=5s)). The SLAM competition is like an 'elevator talk'; participants gave three-minute talks on their research, prepared for a general audience. This event reinforced my commitment to improving the communication of scientific concepts to the public, a mission I will passionately pursue in the future.
   - title: Wang Shaowu Outstanding Doctoral Graduate Award in 2022
     url: https://www.atmos.pku.edu.cn/xybj/wswyxbsbysj/ljhjz1/141893.htm
     date: '2020-07-14'
     awarder: Peking University
-    icon: outliner/medal-2
+    #icon: outliner/medal-2
     summary: |
   - title: Outstanding Student Presentation Awards (OSPA) in the Fall 2020 AGU meeting
     url: https://www.agu.org/honors/ospa/past-recipients
     date: '2020-12-15'
     awarder: AGU
-    icon: outliner/medal-2
+    #icon: outliner/medal-2
     summary: |
 ---
 

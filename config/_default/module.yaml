@@ -28,3 +28,13 @@ mounts:
     target: layouts
   - source: assets
     target: assets
+  - source: github.com/hugomods/icons/vendors/bootstrap
+    target: assets/media/icons/bootstrap
+  - source: github.com/hugomods/icons/vendors/font-awesome
+    target: assets/media/icons/font-awesome
+  - source: github.com/hugomods/icons/vendors/mdi
+    target: assets/media/icons/mdi
+  - source: github.com/hugomods/icons/vendors/lucide
+    target: assets/media/icons/lucide
+  - source: github.com/hugomods/icons/vendors/simple-icons
+    target: assets/media/icons/simple-icons
