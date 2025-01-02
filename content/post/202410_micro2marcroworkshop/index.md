@@ -13,8 +13,6 @@ authors:
 
 tags:
   - Academic
-  - presentations
-  - Markdown
 ---
 
 Welcome 👋

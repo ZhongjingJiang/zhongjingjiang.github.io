@@ -7,8 +7,7 @@ event_url: https://usclivar.org/meetings/micro2macro
 location: University of Wyoming | Laramie, WY, and Virtual
 
 summary: Oral presentation introducing the work I did at Brookhaven National Laboratory.
-#abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
-Abstracts: This presentation highlighted the framework for model-observing system co-design and I really want to emphasize the OSSE (Observing System Simulation Experiment) concept, showing how model can provide extra information for guiding measurement deployment.  My presentation begins at 3:06:05 in the [video] (https://www.youtube.com/watch?v=Yt1IuUWFIRI).
+abstracts: This presentation highlighted the framework for model-observing system co-design and I really want to emphasize the OSSE (Observing System Simulation Experiment) concept, showing how model can provide extra information for guiding measurement deployment.  My presentation begins at 3:06:05 in the [video] (https://www.youtube.com/watch?v=Yt1IuUWFIRI).
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-10-28'
