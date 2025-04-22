@@ -49,11 +49,9 @@ sections:
       text: |
         [Link to my Google Scholar page](https://scholar.google.com/citations?user=73N_824AAAAJ&hl=en)       
         
-        **In preparation:**
-
-        - **Jiang, Z.**, Isenberg, N., Subba, T., Urban, N., Serbin, S., Kuang, C., Woo, H.: A Novel Computational Framework for Optimal Experimental Design to Improve Climate Prediction.
-
         **Preprint:**
+
+        - **Jiang, Z.**, Isenberg, N., Subba, T., Urban, N., Serbin, S., Kuang, C., Woo, H.: A framework for parametric and predictive uncertainty quantification in the E3SM Land Model: Assessing the impact of site and observable heterogeneity. ESS Open Archive . March 08, 2025.
 
         - Zhu, F., Torbunov, D., Ren, Y., **Jiang, Z.**, Zhao, T., Yogarathnam, A., and Yue, M.: Mitigating Parameter Degeneracy using Joint Conditional Diffusion Model for WECC Composite Load Model in Power Systems, 2024.
 

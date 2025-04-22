@@ -49,7 +49,8 @@ interests:
   - Agricultural Ecosystem Modeling
   - Model Data Fusion
   - Uncertainty Quantification, Bayesian Inference
-  - Miscanthus, Bioenergy, SAF
+  - Miscanthus, Bioenergy
+  - Sustainable Aviation Fuel (SAF)
   - Air pollution
   - Climate Change
 
@@ -188,6 +189,7 @@ awards:
 ---
 
 ## About Me
-Hello! My name is Zhongjing Jiang (姜中景). I am a research scientist at the [Institute for Sustainability, Energy, and Environment (iSEE)](https://sustainability.illinois.edu) at the University of Illinois Urbana-Champaign (UIUC) and the [Center for Advanced Bioenergy and Bioproducts Innovation (CABBI)](https://cabbi.bio), funded by the U.S. Department of Energy. Currently, as a staff member of  [Agroecoystem Sustainability Center (ASC)](https://asc.illinois.edu), I work closely with Prof. [Kaiyu Guan](faculty.nres.illinois.edu/~kaiyuguan/)'s group and CABBI colleagues, and my research focuses on agricultural ecosystem modeling and bioenergy systems.
-With a [diverse academic background](https://zhongjingjiang.github.io/#research) in mathematics, atmospheric science, and environmental studies, and as my work bridges the atmospheric, oceanic, and terrestrial components of the Earth system, I identify myself as an interdisciplinary Earth system scientist. I’m always excited to engage in discussions about atmospheric science, climate issues, energy, and sustainability.
+Hello! My name is Zhongjing Jiang (姜中景). I am a research scientist at the [Institute for Sustainability, Energy, and Environment (iSEE)](https://sustainability.illinois.edu) at the University of Illinois Urbana-Champaign (UIUC) and the [Center for Advanced Bioenergy and Bioproducts Innovation (CABBI)](https://cabbi.bio), funded by the U.S. Department of Energy. Currently, as a staff member of  [Agroecoystem Sustainability Center (ASC)](https://asc.illinois.edu), I work closely with Prof. [Kaiyu Guan](http://faculty.nres.illinois.edu/~kaiyuguan/) 's group and CABBI colleagues, and my research focuses on agricultural ecosystem modeling and bioenergy systems.
+
+With a diverse academic background in mathematics, atmospheric science, and environmental studies, and as my work bridges the atmospheric, oceanic, and terrestrial components of the Earth system, I identify myself as an interdisciplinary Earth system scientist. I’m always excited to engage in discussions about atmospheric science, climate change, energy, and sustainability.
 
