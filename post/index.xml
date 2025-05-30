@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Zhongjing Jiang</title>
-    <link>https://zhongjingjiang.github.io/post/</link>
-      <atom:link href="https://zhongjingjiang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zhongjingjiang.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Blog</title>
-      <link>https://zhongjingjiang.github.io/post/</link>
+      <link>http://localhost:1313/post/</link>
     </image>
     
     <item>
       <title>🎉 I gave an oral at the Micro2Macro Workshop at the University of Wyoming in Laramie from October 28-30</title>
-      <link>https://zhongjingjiang.github.io/post/202410_micro2marcroworkshop/</link>
+      <link>http://localhost:1313/post/202410_micro2marcroworkshop/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://zhongjingjiang.github.io/post/202410_micro2marcroworkshop/</guid>
+      <guid>http://localhost:1313/post/202410_micro2marcroworkshop/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -40,9 +40,9 @@ Many thanks to US CLIVAR for the travel support! 💐It really means a lot for e
     
     <item>
       <title>🎉 I joined University of Illinois Urbana-Champaign as a research scientist</title>
-      <link>https://zhongjingjiang.github.io/post/202408_join_uiuc/</link>
+      <link>http://localhost:1313/post/202408_join_uiuc/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://zhongjingjiang.github.io/post/202408_join_uiuc/</guid>
+      <guid>http://localhost:1313/post/202408_join_uiuc/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -67,9 +67,9 @@ Looking forward to all the challenges and opportunities ahead!&lt;/p&gt;
     
     <item>
       <title>🎉 I won the second place in 2023 BNL Research SLAM Competition</title>
-      <link>https://zhongjingjiang.github.io/post/202309_bnlslam/</link>
+      <link>http://localhost:1313/post/202309_bnlslam/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://zhongjingjiang.github.io/post/202309_bnlslam/</guid>
+      <guid>http://localhost:1313/post/202309_bnlslam/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
