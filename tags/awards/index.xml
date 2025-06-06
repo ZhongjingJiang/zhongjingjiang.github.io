@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Awards | Zhongjing Jiang</title>
-    <link>http://localhost:1313/tags/awards/</link>
-      <atom:link href="http://localhost:1313/tags/awards/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zhongjingjiang.github.io/tags/awards/</link>
+      <atom:link href="https://zhongjingjiang.github.io/tags/awards/index.xml" rel="self" type="application/rss+xml" />
     <description>Awards</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://zhongjingjiang.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Awards</title>
-      <link>http://localhost:1313/tags/awards/</link>
+      <link>https://zhongjingjiang.github.io/tags/awards/</link>
     </image>
     
     <item>
       <title>🎉 I won the second place in 2023 BNL Research SLAM Competition</title>
-      <link>http://localhost:1313/post/202309_bnlslam/</link>
+      <link>https://zhongjingjiang.github.io/post/202309_bnlslam/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/202309_bnlslam/</guid>
+      <guid>https://zhongjingjiang.github.io/post/202309_bnlslam/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
