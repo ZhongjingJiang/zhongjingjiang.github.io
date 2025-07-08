@@ -145,7 +145,7 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Swimming
+      - name: Swiming
         description: ''
         percent: 100
         icon: mdi/swim
