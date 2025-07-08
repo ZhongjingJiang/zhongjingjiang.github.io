@@ -7,7 +7,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="generator" content="Hugo Blox Builder 0.3.2" />
+  <meta name="generator" content="Hugo Blox Builder 0.3.1" />
 
   
   
@@ -57,7 +57,7 @@
   
   
     
-    <link href="/dist/wc.min.05570f1deda629d4e2d77f73534a63aa04471f012db6735c59424372f467db85.css" rel="stylesheet" />
+    <link href="/dist/wc.min.css" rel="stylesheet" />
   
 
   
@@ -234,6 +234,7 @@
   
 
 
+  
   
   
   
@@ -512,67 +513,40 @@
     --pagefind-ui-border: #152028;
     --pagefind-ui-tag: #152028;
   }
-
-   
-  .search-close > svg {
-    height: calc(64px * var(--pagefind-ui-scale));
-    width: calc(64px * var(--pagefind-ui-scale));
-  }
 </style>
 
 <script>
-  
-  let searchWrapper = null;
-
   window.addEventListener('DOMContentLoaded', (event) => {
-    
     new PagefindUI({
       element: "#search",
       showSubResults: true,
       baseUrl: window.hbb.pagefind.baseUrl,
       bundlePath: window.hbb.pagefind.baseUrl + "pagefind/",
     });
-
-    
-    searchWrapper = document.getElementById('search-wrapper');
-
-    
-    let triggers = document.querySelectorAll('[data-search-toggle]');
-    triggers.forEach(trigger =>
-      trigger.addEventListener('click', handleSearchToggle)
-    );
   });
+  document.addEventListener('DOMContentLoaded', () => {
+    let element = document.getElementById('search');
+    let trigger = document.getElementById('search_toggle');
 
-  function handleSearchToggle(event) {
-    if (!searchWrapper) return;
+    if (trigger) {
+      trigger.addEventListener('click', () => {
+        element.classList.toggle('hidden');
+        element.querySelector("input").value = ""
+        element.querySelector("input").focus()
 
-    const isHidden = searchWrapper.classList.contains('hidden');
-    searchWrapper.classList.toggle('hidden');
-    document.body.style.overflow = isHidden ? 'hidden' : '';
+        if (!element.classList.contains('hidden')) {
+          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
 
-    const searchInput = searchWrapper.querySelector("input");
-    if (searchInput) {
-      searchInput.value = "";
-      searchInput.focus();
-    }
+          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
+            clear_trigger.setAttribute('listenerOnClick', 'true');
 
-    if (!searchWrapper.classList.contains('hidden')) {
-      let clearTrigger = document.querySelector('.pagefind-ui__search-clear');
+            clear_trigger.addEventListener('click', () => {
+              element.classList.toggle('hidden');
+            });
+          }
+        }
 
-      if (clearTrigger && !clearTrigger.hasAttribute('listenerOnClick')) {
-        clearTrigger.setAttribute('listenerOnClick', 'true');
-
-        clearTrigger.addEventListener('click', () => {
-          searchInput.focus();
-        });
-      }
-    }
-  }
-
-  
-  document.addEventListener('keydown', (event) => {
-    if (event.key === 'Escape' && searchWrapper && !searchWrapper.classList.contains('hidden')) {
-      searchWrapper.classList.add('hidden');
+      });
     }
   });
 </script>
@@ -600,8 +574,8 @@
   
   <script
     defer
-    src="/js/hugo-blox-en.min.1fedcf3fffb3ce446055aa2c180d3e5769b0f2da9b271c080791f0c168817d4d.js"
-    integrity="sha256-H&#43;3PP/&#43;zzkRgVaosGA0&#43;V2mw8tqbJxwIB5HwwWiBfU0="
+    src="/js/hugo-blox-en.min.9153556f0b961e852b8382f2df503f632bf7508693146cceda4aacdeb1854d01.js"
+    integrity="sha256-kVNVbwuWHoUrg4Ly31A/Yyv3UIaTFGzO2kqs3rGFTQE="
   ></script>
 
   
@@ -764,9 +738,9 @@
       
       
       <button
-        aria-label="toggle search"
+        aria-label="search"
         class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
-        data-search-toggle>
+        id="search_toggle">
         <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
       </button>
       
@@ -807,26 +781,8 @@
   </nav>
 </header>
 
-<div
-  id="search-wrapper"
-  class="hidden fixed inset-0 z-50 bg-white dark:bg-gray-900 flex flex-col overflow-hidden"
->
-  <div class="flex justify-end p-3">
-    <button
-      aria-label="search"
-      class="search-close text-black hover:text-primary dark:text-white"
-      data-search-toggle
-    >
-      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
-      </svg>
-    </button>
-  </div>
 
-  <div id="search" class="flex-1 overflow-y-auto p-3">
-    
-  </div>
-</div>
+<div id="search" class="hidden p-3"></div>
 
 
         
@@ -864,7 +820,15 @@
             <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
         </span>
     </a><div class="ltr:pr-0 overflow-hidden">
-        <ul class="hb-sidebar-list"><li class="flex flex-col open"><a
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/202503_armasr_pi_meeting/"
+    
+  >🎉 I gave an invited talk at the 2025 ARM/ASR PI meeting UQ and OSSE breakout session on March 5th!
+    </a>
+              
+            </li><li class="flex flex-col open"><a
     class="hb-sidebar-custom-link
       sidebar-active-item bg-primary-100 font-semibold text-primary-800 dark:bg-primary-300 dark:text-primary-900"
     href="/post/202410_micro2marcroworkshop/"
@@ -1432,6 +1396,22 @@ Many thanks to US CLIVAR for the travel support! 💐It really means a lot for e
   <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
   <div class="flex flex-col md:flex-row flex-nowrap justify-between gap-5 pt-2">
     <div class="">
+      
+        <a class="group flex no-underline" href="/post/202503_armasr_pi_meeting/">
+          <span
+            class="mt-[-0.3rem] me-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
+          ><span class="ltr:inline rtl:hidden">&larr;</span></span>
+          <span class="flex flex-col">
+            <span
+              class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+            >🎉 I gave an invited talk at the 2025 ARM/ASR PI meeting UQ and OSSE breakout session on March 5th!</span>
+            <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+              
+                Mar 5, 2025
+              
+            </span>
+          </span>
+        </a>
       
     </div>
     <div class="">

@@ -5,12 +5,39 @@
     <link>https://zhongjingjiang.github.io/post/</link>
       <atom:link href="https://zhongjingjiang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhongjingjiang.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Blog</title>
       <link>https://zhongjingjiang.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>🎉 I gave an invited talk at the 2025 ARM/ASR PI meeting UQ and OSSE breakout session on March 5th!</title>
+      <link>https://zhongjingjiang.github.io/post/202503_armasr_pi_meeting/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://zhongjingjiang.github.io/post/202503_armasr_pi_meeting/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#summary&#34;&gt;Summary&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;I was honored to be an invited speaker at the Uncertainty Quantification (UQ) and Observing System Simulation Experiments (OSSEs) breakout session during the 2025 ARM/ASR Principal Investigators Meeting. This session brought together atmospheric scientists, modelers, and data experts to explore how advanced UQ techniques and OSSE frameworks can be used to maximize the impact of ARM observations on atmospheric process understanding and model improvement.
+In my talk, I shared insights on how model–data integration, particularly using Bayesian approaches and OSSEs, can be leveraged to reduce uncertainties in land–atmosphere interactions and inform observational strategies. It was an exciting opportunity to engage with the community and contribute to discussions on operationalizing next-generation modeling tools to support ARM science.
+Many thanks to the session conveners—Daniel McCoy, Susannah Burrows, Marcus van Lier-Walqui, and Israel Silber for creating a space for rich dialogue and collaboration. Looking forward to future work with this growing community of practice!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>🎉 I gave an oral at the Micro2Macro Workshop at the University of Wyoming in Laramie from October 28-30</title>
