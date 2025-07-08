@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UIUC | Zhongjing Jiang</title>
+    <link>https://zhongjingjiang.github.io/tags/uiuc/</link>
+      <atom:link href="https://zhongjingjiang.github.io/tags/uiuc/index.xml" rel="self" type="application/rss+xml" />
+    <description>UIUC</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhongjingjiang.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>UIUC</title>
+      <link>https://zhongjingjiang.github.io/tags/uiuc/</link>
+    </image>
+    
+    <item>
+      <title>🎉 I joined University of Illinois Urbana-Champaign as a research scientist</title>
+      <link>https://zhongjingjiang.github.io/post/202408_join_uiuc/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhongjingjiang.github.io/post/202408_join_uiuc/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#summary&#34;&gt;Summary&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;After spending two years as a postdoc at Brookhaven National Laboratory, where I had the advantage of collaborating with talented scientists who are experts in field campaigns, Earth system modeling, and computational science, I am thrilled to embark on a new journey as a Research Scientist at the &lt;a href=&#34;https://sustainability.illinois.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute for Sustainability, Energy, and Environment&lt;/a&gt; at the &lt;a href=&#34;https://illinois.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Illinois Urbana-Champaign&lt;/a&gt; as well as the &lt;a href=&#34;https://cabbi.bio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Advanced Bioenergy and Bioproducts Innovation (CABBI)&lt;/a&gt;.
+In this role, I will be working with Professor &lt;a href=&#34;http://faculty.nres.illinois.edu/~kaiyuguan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaiyu Guan&lt;/a&gt;, leveraging my expertise in Uncertainty Quantification and Earth system modeling to address the pressing challenges of climate change from the agricultural perspective. I am committed to developing sustainable solutions integrating climate science with agriculture, aiming to contribute to a more resilient and sustainable future.
+Looking forward to all the challenges and opportunities ahead!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

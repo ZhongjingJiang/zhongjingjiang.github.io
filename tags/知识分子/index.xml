@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>知识分子 | Zhongjing Jiang</title>
+    <link>https://zhongjingjiang.github.io/tags/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/</link>
+      <atom:link href="https://zhongjingjiang.github.io/tags/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/index.xml" rel="self" type="application/rss+xml" />
+    <description>知识分子</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhongjingjiang.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>知识分子</title>
+      <link>https://zhongjingjiang.github.io/tags/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/</link>
+    </image>
+    
+    <item>
+      <title>海洋温度达历史新高，我们正在走向未知</title>
+      <link>https://zhongjingjiang.github.io/writing/zsfz-ocean/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhongjingjiang.github.io/writing/zsfz-ocean/</guid>
+      <description>&lt;p&gt;气候变化“缓冲器”失灵了吗？&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>超强暴雨、高温、极端干旱，今年又是“水深火热”的一年？</title>
+      <link>https://zhongjingjiang.github.io/writing/zsfz-extreme-events/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhongjingjiang.github.io/writing/zsfz-extreme-events/</guid>
+      <description>&lt;p&gt;地球怎么了？&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>江西特旱仍在持续！极端事件预测，谁能给个准话？</title>
+      <link>https://zhongjingjiang.github.io/writing/zsfz-drought/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://zhongjingjiang.github.io/writing/zsfz-drought/</guid>
+      <description>&lt;p&gt;极端“热”气候下的“冷”思考&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>珠峰上放飞的气球，如何研究 “双面人” 臭氧？</title>
+      <link>https://zhongjingjiang.github.io/writing/zsfz-o3/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://zhongjingjiang.github.io/writing/zsfz-o3/</guid>
+      <description>&lt;p&gt;臭氧研究还有哪些挑战？&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://zhongjingjiang.github.io/sitemap.xml

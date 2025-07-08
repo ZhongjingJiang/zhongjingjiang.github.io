@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | Zhongjing Jiang</title>
+    <link>https://zhongjingjiang.github.io/post/</link>
+      <atom:link href="https://zhongjingjiang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhongjingjiang.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Blog</title>
+      <link>https://zhongjingjiang.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>🎉 I gave an oral at the Micro2Macro Workshop at the University of Wyoming in Laramie from October 28-30</title>
+      <link>https://zhongjingjiang.github.io/post/202410_micro2marcroworkshop/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhongjingjiang.github.io/post/202410_micro2marcroworkshop/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#summary&#34;&gt;Summary&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;It was really a great experience to attend the &lt;a href=&#34;https://usclivar.org/meetings/micro2macro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Micro2Macro Workshop&lt;/a&gt;, where I had the opportunity to present my latest work on &amp;ldquo;A Novel Computational Framework for Optimal Experimental Design to Improve Climate Prediction.&amp;rdquo; This presentation highlighted the framework for model-observing system co-design and I really want to emphasize the OSSE (Observing System Simulation Experiment) concept, showing how model can provide extra information for guiding measurement deployment. It was also amazing to run into the first snow of 2024 in Wyoming when people were discussing ice nuclei warmly😄.
+Many thanks to US CLIVAR for the travel support! 💐It really means a lot for early career scientists to have the opportunity to attend this kind of workshop. It was inspiring to connect with experts and learn about advancements across climate science, challenges for reducing the uncertainty, and the pitch for next step—excited to bring these insights back to my work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉 I joined University of Illinois Urbana-Champaign as a research scientist</title>
+      <link>https://zhongjingjiang.github.io/post/202408_join_uiuc/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhongjingjiang.github.io/post/202408_join_uiuc/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#summary&#34;&gt;Summary&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;After spending two years as a postdoc at Brookhaven National Laboratory, where I had the advantage of collaborating with talented scientists who are experts in field campaigns, Earth system modeling, and computational science, I am thrilled to embark on a new journey as a Research Scientist at the &lt;a href=&#34;https://sustainability.illinois.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute for Sustainability, Energy, and Environment&lt;/a&gt; at the &lt;a href=&#34;https://illinois.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Illinois Urbana-Champaign&lt;/a&gt; as well as the &lt;a href=&#34;https://cabbi.bio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Advanced Bioenergy and Bioproducts Innovation (CABBI)&lt;/a&gt;.
+In this role, I will be working with Professor &lt;a href=&#34;http://faculty.nres.illinois.edu/~kaiyuguan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaiyu Guan&lt;/a&gt;, leveraging my expertise in Uncertainty Quantification and Earth system modeling to address the pressing challenges of climate change from the agricultural perspective. I am committed to developing sustainable solutions integrating climate science with agriculture, aiming to contribute to a more resilient and sustainable future.
+Looking forward to all the challenges and opportunities ahead!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉 I won the second place in 2023 BNL Research SLAM Competition</title>
+      <link>https://zhongjingjiang.github.io/post/202309_bnlslam/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhongjingjiang.github.io/post/202309_bnlslam/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#summary&#34;&gt;Summary&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;It was a great experience to participate in the first &lt;a href=&#34;https://www.bnl.gov/newsroom/news.php?a=221522&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BNL Research SLAM competition&lt;/a&gt;, and it was an honor to win second place (my presentation begins at 28:40 in the &lt;a href=&#34;https://www.youtube.com/watch?v=zWkuOtVzpVQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;).
+The SLAM competition is like an ’elevator talk’; participants gave three-minute talks on their research, prepared for a general audience. This event reinforced my commitment to improving the communication of scientific concepts to the public, a mission I will passionately pursue in the future.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awards | Zhongjing Jiang</title>
+    <link>https://zhongjingjiang.github.io/tags/awards/</link>
+      <atom:link href="https://zhongjingjiang.github.io/tags/awards/index.xml" rel="self" type="application/rss+xml" />
+    <description>Awards</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhongjingjiang.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Awards</title>
+      <link>https://zhongjingjiang.github.io/tags/awards/</link>
+    </image>
+    
+    <item>
+      <title>🎉 I won the second place in 2023 BNL Research SLAM Competition</title>
+      <link>https://zhongjingjiang.github.io/post/202309_bnlslam/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhongjingjiang.github.io/post/202309_bnlslam/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#summary&#34;&gt;Summary&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;It was a great experience to participate in the first &lt;a href=&#34;https://www.bnl.gov/newsroom/news.php?a=221522&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BNL Research SLAM competition&lt;/a&gt;, and it was an honor to win second place (my presentation begins at 28:40 in the &lt;a href=&#34;https://www.youtube.com/watch?v=zWkuOtVzpVQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;).
+The SLAM competition is like an ’elevator talk’; participants gave three-minute talks on their research, prepared for a general audience. This event reinforced my commitment to improving the communication of scientific concepts to the public, a mission I will passionately pursue in the future.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
